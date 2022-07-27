@@ -1,0 +1,118 @@
+.header{
+    background-color: black;
+    margin:-40px 2px;
+ }
+.header ul{
+    margin: 6px 162px;
+    padding: 60px 401px;
+    font-size: 27px
+
+}
+.options{
+font-family: fantasy;
+}
+
+select{
+width: 84px;
+height: 36px;
+margin: -5px;
+font-size: 21px;
+
+}
+
+.header li {
+float: left;
+list-style: none;
+margin: -8px 20px;
+color: white;
+}
+.header select{
+border: 6px solid black;
+background-color: black;
+color: white;
+ 
+}
+a:hover{
+cursor:pointer;
+display: block;
+}
+.ls{
+font-size: 21px;
+padding: 5px;
+
+}
+.boat{
+height: 123px;
+width: 171px;
+margin: -130px 62px;
+
+}
+a,#more{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+#more:hover{
+    text-decoration: underline;
+}
+.header input{
+    margin: -56px 300px;
+    float: right;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+.header button{
+    margin: -56px 222px;
+    float: right;
+    font-size: 20px;
+    font-family: fantasy;
+  
+}
+.midBody img{
+    margin: -37px -1px;
+    padding: 30px 3px;
+    width: 1687px;
+}
+
+.midRec_text{
+    margin: -2px -9px;
+    padding: 51px 502px;
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+
+body{
+    background-color: rgb(22 18 18);
+}
+.container_head1{
+    font-size: 44px;
+    padding: 32px 33px;
+    margin: 50px 371px;
+    color: white;
+    font-family: cursive;
+}
+.inside_container{
+    float: left;
+    height: 274px;
+    width: 290px;
+    margin: 40px 37px;
+    padding: 20px;
+    background-color: #e3d3d3;
+    border-radius: 30px;
+}
+.insider{
+    background-color: white;
+}
+.sub_detail{
+    float: left;
+    height: 180px;
+    width: 290px;
+    margin: -73px 37px;
+    padding: 20px;
+    background-color: #e3d3d3;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
